@@ -1,0 +1,53 @@
+.tytul {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.autor {
+    font-style: italic;
+    text-align: center;
+}
+
+.tresc {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color:aquamarine;
+}
+
+a:visited {
+    color:brown;
+    font-style: oblique;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+#dwa {
+    text-align: right;
+}
+
+.main-container {
+    float: left;
+    position: relative;
+    left: 50%;
+  }
+  .fixer-container {
+    float: left;
+    position: relative;
+    left: -50%;
+  }
+
+img {
+    margin: 0 auto;
+    display: block;
+  }
+
+.tytul {
+    text-align: center;
+}
+
+table,tr,td{
+    border:1px solid black;
+}
