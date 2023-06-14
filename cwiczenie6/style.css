@@ -1,0 +1,60 @@
+.link {
+    text-decoration: none;
+    color: black;
+    text-decoration: solid;
+    font-weight: 400;
+}
+
+.link:hover {
+    background-color: #f3f3f3;
+    border-radius: 20px;
+}
+
+.link:active {
+    font-weight: 600;
+}
+
+body {
+    font-family: 'Segoe UI';
+}
+
+.navi {
+    font-size: x-large;
+}
+
+.button-tweet {
+    font-size: medium;
+    background-color: #1A8CD8;
+    border-radius: 40px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.button-tweet2 {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+    background-color: #1A8CD8;
+    border-radius: 20px;
+    padding: 5px 15px 7px 15px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+textarea {
+    resize:none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.lista {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-color: #F7F9F9;
+    padding: 10px 5px 10px 10px;
+}
